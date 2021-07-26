@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi, I'm Matheus! 👋
 
-<!--
-**MatheusOliveira10/MatheusOliveira10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently working for Neolink Telecomunicações on web, desktop and mobile projects as a Full Stack Developer
 
-Here are some ideas to get you started:
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusOliveira10&show_icons=true&theme=gotham)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[Matheus's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusOliveira10&show_icons=true&theme=gotham)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### :computer: Main Tools: 
+<p align="center">
+  <img align="left" img width="10%" src="https://logodownload.org/wp-content/uploads/2016/10/php-logo.png">
+  <img align="left" img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/250px-Laravel.svg.png">
+  <img align="left" img width="10%" src="https://toppng.com/uploads/preview/mysql-logo-vector-free-download-11573934106vmvysk1ovw.png">
+  <img align="left" img width="10%" src="https://w7.pngwing.com/pngs/452/495/png-transparent-react-javascript-angularjs-ionic-github-text-logo-symmetry-thumbnail.png">
+  <img align="left" img width="10%" src="https://cdn.iconscout.com/icon/free/png-512/javascript-2752148-2284965.png">
+</p>
