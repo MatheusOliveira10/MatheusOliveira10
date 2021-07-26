@@ -8,9 +8,9 @@ Currently working for Neolink Telecomunicações on web, desktop and mobile proj
 
 #### :computer: Main Tools: 
 <p align="center">
-  <img align="left" img width="10%" src="https://logodownload.org/wp-content/uploads/2016/10/php-logo.png">
+  <img align="left" img width="10%" src="https://e7.pngegg.com/pngimages/184/491/png-clipart-php-php.png">
   <img align="left" img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/250px-Laravel.svg.png">
-  <img align="left" img width="10%" src="https://toppng.com/uploads/preview/mysql-logo-vector-free-download-11573934106vmvysk1ovw.png">
-  <img align="left" img width="10%" src="https://w7.pngwing.com/pngs/452/495/png-transparent-react-javascript-angularjs-ionic-github-text-logo-symmetry-thumbnail.png">
+  <img align="left" img width="10%" src="https://e7.pngegg.com/pngimages/732/675/png-clipart-mysql-mysql-thumbnail.png">
+  <img align="left" img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png">
   <img align="left" img width="10%" src="https://cdn.iconscout.com/icon/free/png-512/javascript-2752148-2284965.png">
 </p>
