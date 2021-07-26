@@ -10,7 +10,7 @@ Currently working for Neolink Telecomunicações on web, desktop and mobile proj
 <p align="center">
   <img align="left" img width="100px" height="100px" src="https://pngimg.com/uploads/php/php_PNG43.png">
   <img align="left" img width="100px" height="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/250px-Laravel.svg.png">
-  <img align="left" img width="100px" height="100px" src="https://e7.pngegg.com/pngimages/747/798/png-clipart-mysql-mysql.png">
+  <img align="left" img width="100px" height="100px" src="http://adrianob.com.br/wp-content/uploads/2017/09/3195b01a3ba41.png">
   <img align="left" img width="100px" height="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png">
   <img align="left" img width="100px" height="100px" src="https://cdn.iconscout.com/icon/free/png-512/javascript-2752148-2284965.png">
 </p>
