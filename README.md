@@ -10,7 +10,7 @@ Currently working for Neolink Telecomunicações on web, desktop and mobile proj
 <p align="center">
   <img align="left" img width="10%" src="https://pngimg.com/uploads/php/php_PNG43.png">
   <img align="left" img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/250px-Laravel.svg.png">
-  <img align="left" img width="10%" src="https://e7.pngegg.com/pngimages/732/675/png-clipart-mysql-mysql-thumbnail.png">
+  <img align="left" img width="10%" src="https://marcas-logos.net/wp-content/uploads/2020/11/MySQL-logo.png">
   <img align="left" img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png">
   <img align="left" img width="10%" src="https://cdn.iconscout.com/icon/free/png-512/javascript-2752148-2284965.png">
 </p>
