@@ -1,6 +1,6 @@
 ### Hi, I'm Matheus! 👋
 
-Currently working for Neolink Telecomunicações on web, desktop and mobile projects as a Full Stack Developer
+Currently working for Gamers Club on web projects as a Back End Developer
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusOliveira10&show_icons=true&theme=gotham)
 <!--<br><br>
