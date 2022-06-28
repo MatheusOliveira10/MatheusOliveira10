@@ -2,10 +2,6 @@
 
 Currently working for Gamers Club on web projects as a Back End Developer
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusOliveira10&show_icons=true&theme=gotham)
-<!--<br><br>
-![Matheus's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusOliveira10&show_icons=true&theme=gotham) -->
-
 #### :computer: Main Tools: 
 <p align="center">
   <img align="left" img width="100px" height="100px" src="https://pngimg.com/uploads/php/php_PNG43.png">
