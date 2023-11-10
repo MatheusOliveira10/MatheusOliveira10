@@ -1,6 +1,6 @@
 ### Hi, I'm Matheus! 👋
 
-Currently working for Gamers Club on web projects as a Back End Developer
+Currently working for Soluti Digital on web projects as a Full-Stack Developer
 
 #### :computer: Main Tools: 
 <p align="center">
